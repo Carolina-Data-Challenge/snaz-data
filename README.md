@@ -1,3 +1,8 @@
+## Dataset Information
+
+Track: Finance
+Dataset totals above 10GB in size, so it is not hosted on GitHub. They can be downloaded from the websites: https://ffiec.cfpb.gov/data-browser/data/2018 and https://ffiec.cfpb.gov/data-browser/data/2019
+
 # 2020 CDC Project Submission Template
 
 This repository is a private space for you and your team to collaborate with one another. The datasets for each track are available in [this repository](https://github.com/Carolina-Data-Challenge/datasets) for ease of access. While we can only encourage you to work out of this repository throughout the event, do note that **you will be required to submit your project files in this repository for judging**.
