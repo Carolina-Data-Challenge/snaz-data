@@ -1,9 +1,13 @@
+# 2020 Carolina Data Challenge - Snaz Data
+
 ## Dataset Information
 
-Track: Finance
-Dataset totals above 10GB in size, so it is not hosted on GitHub. They can be downloaded from the websites: https://ffiec.cfpb.gov/data-browser/data/2018 and https://ffiec.cfpb.gov/data-browser/data/2019
+Track: Social Science / Humanities
+Dataset: WorldEconomicOutlookData.xls
 
-# 2020 CDC Project Submission Template
+Dataset obtained from [The 2020 Carolina Data Challenge Dataset Repository](https://github.com/Carolina-Data-Challenge/datasets) which was taken from [the April 2020 release of the Internaional Monetary Fund's World Economic Outlook Database](https://www.imf.org/external/pubs/ft/weo/2020/01/weodata/index.aspx)
+
+## 2020 CDC Project Submission Template
 
 This repository is a private space for you and your team to collaborate with one another. The datasets for each track are available in [this repository](https://github.com/Carolina-Data-Challenge/datasets) for ease of access. While we can only encourage you to work out of this repository throughout the event, do note that **you will be required to submit your project files in this repository for judging**.
 
